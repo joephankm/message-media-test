@@ -1,0 +1,1 @@
+export { useGiphyPaginator } from './useGiphyPaginator';
